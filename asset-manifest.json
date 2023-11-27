@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-app-w11/static/css/main.e6c13ad2.css",
+    "main.js": "/react-app-w11/static/js/main.7cc6e44c.js",
+    "static/js/787.a4b45000.chunk.js": "/react-app-w11/static/js/787.a4b45000.chunk.js",
+    "static/media/Margarita.webp": "/react-app-w11/static/media/Margarita.6a861775755706c6e169.webp",
+    "static/media/Mojito.webp": "/react-app-w11/static/media/Mojito.005b293f0eaa00409a7f.webp",
+    "static/media/ph.webp": "/react-app-w11/static/media/ph.b5c34b934472bd22cb0d.webp",
+    "static/media/MidoriSour.webp": "/react-app-w11/static/media/MidoriSour.06200c84ecf6da5c21e9.webp",
+    "index.html": "/react-app-w11/index.html",
+    "main.e6c13ad2.css.map": "/react-app-w11/static/css/main.e6c13ad2.css.map",
+    "main.7cc6e44c.js.map": "/react-app-w11/static/js/main.7cc6e44c.js.map",
+    "787.a4b45000.chunk.js.map": "/react-app-w11/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7cc6e44c.js"
+  ]
+}
